@@ -5,4 +5,4 @@ DOMAIN-SUFFIX,reimu.net
 DOMAIN-SUFFIX,crrcgc.cc
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steampowered.com
-IP-CIDR,153.254.86.147
+IP-CIDR,153.254.86.0/22
