@@ -4,5 +4,8 @@ DOMAIN-SUFFIX,piv.app
 DOMAIN-SUFFIX,reimu.net
 DOMAIN-SUFFIX,crrcgc.cc
 DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,steampowered.com
 IP-CIDR,153.254.86.0/22
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,dl.steam.ksyna.com
