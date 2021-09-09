@@ -1,22 +1,22 @@
 ##qq音乐
-DOMAIN-SUFFIX,wup.browser.qq.com,🚀 节点选择
-DOMAIN-SUFFIX,y.qq.com,🚀 节点选择
-DOMAIN-SUFFIX,music.tc.qq.com,🚀 节点选择
-DOMAIN-SUFFIX,pingfore.qq.com,🚀 节点选择
-DOMAIN-SUFFIX,y.gtimg.com,🚀 节点选择
+DOMAIN-SUFFIX,wup.browser.qq.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN-SUFFIX,music.tc.qq.com
+DOMAIN-SUFFIX,pingfore.qq.com
+DOMAIN-SUFFIX,y.gtimg.com
 
-IP-CIDR,183.3.225.60/24,🚀 节点选择
-IP-CIDR,183.60.15.0/24,🚀 节点选择
-IP-CIDR,119.147.3.178/24,🚀 节点选择
-IP-CIDR,101.91.63.187/24,🚀 节点选择
-IP-CIDR,198.18.0.0/24,🚀 节点选择
-IP-CIDR,101.91.63.0/24,🚀 节点选择
-IP-CIDR,113.96.208.0/24,🚀 节点选择
+IP-CIDR,183.3.225.60/24
+IP-CIDR,183.60.15.0/24
+IP-CIDR,119.147.3.178/24
+IP-CIDR,101.91.63.187/24
+IP-CIDR,198.18.0.0/24
+IP-CIDR,101.91.63.0/24
+IP-CIDR,113.96.208.0/24
 ##qq邮箱
-DOMAIN-SUFFIX,ssl.ptlogin2.qq.com,🚀 节点选择
-DOMAIN-SUFFIX,mail.qq.com,🚀 节点选择
-DOMAIN-SUFFIX,qqmail.com,🚀 节点选择
-DOMAIN-SUFFIX,i1.wp.com,🚀 节点选择
-DOMAIN-SUFFIX,mail.ftn.qq.com,🚀 节点选择
-DOMAIN-SUFFIX,ti.qq.com,🚀 节点选择
-DOMAIN-SUFFIX,xmail.cdn.sewest.net,🚀 节点选择
+DOMAIN-SUFFIX,ssl.ptlogin2.qq.com
+DOMAIN-SUFFIX,mail.qq.com
+DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,i1.wp.com
+DOMAIN-SUFFIX,mail.ftn.qq.com
+DOMAIN-SUFFIX,ti.qq.com
+DOMAIN-SUFFIX,xmail.cdn.sewest.net
